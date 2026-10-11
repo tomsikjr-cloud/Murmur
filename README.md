@@ -1,4 +1,6 @@
-# BoidsInteractive
+# Murmur
+
+**Version: v0.11**
 
 **Murmur** is an interactive playground for exploring the beauty of collective motion. Abstract wing and fin silhouettes move according to three simple local rules: separation, alignment, and cohesion.
 
